@@ -20,4 +20,4 @@ After updated, you can view the database tables and copy down the data you want
 
 The general purpose of this project is to help spotting disasters happening everywhere.
 
-Making a donation to the author will be motivating and exciting to continue making improvements to this project. If you feel like donating please email the author <marscrophimself@yahoo.com> to request for btc address or bank account. Thank You.
+Making a donation to the author will be motivating and exciting to continue making improvements to this project. If you feel like donating please email the author <marscrophimself@protonmail.com> to request for btc address or bank account. Thank You.
